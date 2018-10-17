@@ -22,10 +22,10 @@ This dataset has been retrieved from a Kaggle dataset: https://www.kaggle.com/ki
 About the dataset
 ==================
 
-Context
+Context:
 This is all of Shakespeare's plays.
 
-Content
+Content:
 This is a dataset comprised of all of Shakespeare's plays. It includes the following:
 
 The first column is the Data-Line, it just keeps track of all the rows there are.
